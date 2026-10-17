@@ -41,7 +41,7 @@ const trustSignals = ["Free Consultation", "No obligation", `Local ${site.city} 
 >
   <h3>{heading}</h3>
 
-  <input type="hidden" name="_subject" value={`New lead — ${site.city}, ${site.stateAbbr} water softener quote`} />
+  <input type="hidden" name="_subject" value={`New lead: ${site.city}, ${site.stateAbbr} water softener quote`} />
   <input type="hidden" name="_next" value={`${site.siteUrl}/thank-you/`} />
   <input type="hidden" name="_captcha" value="false" />
   <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
