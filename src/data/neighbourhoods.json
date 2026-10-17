@@ -1,5 +1,24 @@
 {
-  "hardness": null,
-  "issues": [],
-  "neighbourhoods": []
+  "hardness": {
+    "value": "15 to 17",
+    "unit": "GPG",
+    "label": "Very Hard",
+    "short": "15 to 17 GPG (working figure)",
+    "intro": "Katy water comes from Gulf Coast Aquifer groundwater and tests at a working 15 to 17 GPG. Click a community to see what that means for your home. [VERIFY: working figure]",
+    "reportNote": "A working figure of 15 to 17 GPG (about 257 to 291 mg/L) puts Katy water above the 10.5 GPG Very Hard line on the Water Quality Association scale. The City of Katy's report does not state hardness, so confirm it with a tap test or your provider's report. [VERIFY: working figure]",
+    "footnote": "Hardness is a working figure for Katy groundwater, not a reading at your tap. Many Katy addresses are served by a Municipal Utility District, so check your water bill for the provider; a free water test shows your own number. [VERIFY: confirm against the City of Katy or your MUD's report]"
+  },
+  "issues": [
+    "White scale on faucets and showerheads",
+    "Spotting and film on glassware and dishes",
+    "Scale buildup in water heaters and appliances",
+    "Soap scum, dry skin and stiff laundry"
+  ],
+  "neighbourhoods": [
+    {
+      "name": "Katy",
+      "lat": 29.7857853,
+      "lng": -95.8243956
+    }
+  ]
 }
